@@ -2,7 +2,7 @@ body{
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #9f9cfc;
+  background: #9f2cfc;
 }
 
 header{
@@ -17,7 +17,7 @@ nav{
   overflow: hidden;
 }
 
-nav a{
+nav a {
   color: #f2f2f2;
   display: block;
   padding: 16px 16px;
@@ -38,8 +38,8 @@ padding: 20px;
 }
 
 .sessao{
-  background-color: #f2f2f;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #9f2cfc;
+  box-shadow: 0 0 10px rgb(86, 10, 148, 0.1);
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 8px;
